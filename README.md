@@ -1,1 +1,1 @@
-C# İLE OOP TEMELLERİ: ADIM ADIM KATMANLI MİMARİ Kursunda yapılan projeler 
+C# İLE OOP TEMELLERİ: ADIM ADIM KATMANLI MİMARİ Kursunda Yapılan 1. Proje 
